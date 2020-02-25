@@ -1,4 +1,4 @@
-# CMPUT 402/501 C/C++ Static Analysis Tools Demo
+# CMPUT 402 C/C++ Static Analysis Tools Demo
 
 ## CPPCheck
 
